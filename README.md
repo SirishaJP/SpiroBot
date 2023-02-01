@@ -16,6 +16,9 @@ Standardization: Proper identification of medicinal plants is necessary for stan
 
 Research: Accurate identification of medicinal plants is essential for scientific research and the development of new medicines from natural sources.
 
+## Goal 
+
+A simple CNN Based approach for Identification of Medicinal Plants. 
 
 ## Data Collection
 
@@ -42,6 +45,14 @@ More the data, better the accuracy. Therefore, augmentation technique is used to
 ## Result 
 
 An accuracy of 0.7514 is acheived. 
+
+#### Note
+
+This project is in the development phase, therefore, I would request for your patience and understanding.
+
+For up-to-date information, follow me on GitHub and blog posts:
+
+
 
 
 ## Author
