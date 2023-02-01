@@ -38,14 +38,12 @@ More the data, better the accuracy. Therefore, augmentation technique is used to
                * Shift images vertically
                * Random Flips
                
-## CNN Model Architecture
-
-![cnn](https://user-images.githubusercontent.com/104147973/216021806-bc2fe73e-3683-4501-8424-b0d00b9af58a.png)
 
 ## Result 
 
 An accuracy of 0.7514 is acheived. 
 
+<img width="267" alt="Screenshot 2023-02-01 at 11 59 29" src="https://user-images.githubusercontent.com/104147973/216024755-4957afcc-8e43-4cfc-bbb4-3568cea3090a.png">
 
 
 ## Author
