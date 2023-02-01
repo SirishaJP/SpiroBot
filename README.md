@@ -51,5 +51,5 @@ An accuracy of 0.7514 is acheived.
 
 @SirishaJotheeswaranPadmasekhar
 
-For up-to-date information, follow me on GitHub and blog posts:
+For up-to-date information, follow me on [GitHub](https://github.com/SirishaJP) and [blog posts](https://medium.com/@sirishapadmasekhar/spirobot-medicinal-plant-recognition-ae4f0a8cad4)
 
