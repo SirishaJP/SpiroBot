@@ -46,14 +46,11 @@ More the data, better the accuracy. Therefore, augmentation technique is used to
 
 An accuracy of 0.7514 is acheived. 
 
-#### Note
-
-This project is in the development phase, therefore, I would request for your patience and understanding.
-
-For up-to-date information, follow me on GitHub and blog posts:
-
-
 
 
 ## Author
-@SirishaJotheeswaranPadmasekhar. 
+
+@SirishaJotheeswaranPadmasekhar
+
+For up-to-date information, follow me on GitHub and blog posts:
+
